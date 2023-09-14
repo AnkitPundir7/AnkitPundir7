@@ -1,7 +1,6 @@
 - 👋 Hi, My name is Ankit Pundir and I am a student.
 - 👀 I’m always interested in learning something new especially in the tech field.I am also good in sports,photography,videography and editing.
 - 🌱 I’m currently pursuing Btech CSE from Graphic Era University and wish to improve my coding skills exponentially!
-- 💞️ I’m looking to collaborate on building a wallpaper website which is very interactive and provides high quality wallpapers.
 - 📫 How to reach me : Gmail-pundirankit1210@gmail.com  Insta:PundirJi
 
 <!---
