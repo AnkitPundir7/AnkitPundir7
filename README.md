@@ -1,7 +1,7 @@
-- 👋 Hi, My name is Ankit Pundir and I am a student.
-- 👀 I’m always interested in learning something new especially in the tech field.I am also good in sports,photography,videography and editing.
-- 🌱 I’m currently pursuing Btech CSE from Graphic Era University and wish to improve my coding skills exponentially!
-- 📫 How to reach me : Gmail-pundirankit1210@gmail.com  Insta:PundirJi
+- 👋 Hi, My name is Ankit Pundir I’m currently pursuing a Btech in  Computer Science and Engineering from Graphic Era University(2021-2025) and wish to improve my coding skills exponentially!
+- 👀 I’m always interested in learning something new, especially in the tech field like development and blockchain.
+- 🌱  My other interests include sports, photography, videography, travelling and editing.
+- 📫 How to reach me: Gmail-pundirankit1210@gmail.com  
 
 <!---
 AnkitPundir7/AnkitPundir7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
